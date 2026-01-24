@@ -1,0 +1,6 @@
+scenedetect[opencv]==0.6.3
+tqdm==4.66.5
+numpy==2.0.2
+
+open-clip-torch==2.26.1
+Pillow==10.4.0
